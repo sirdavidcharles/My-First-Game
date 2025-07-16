@@ -1,0 +1,22 @@
+MyFirstEnvironment/Binaries/Win64/D3D12/x64/D3D12Core.dll	2025-06-24T22:39:36.399Z
+MyFirstEnvironment/Binaries/Win64/D3D12/x64/d3d12SDKLayers.dll	2025-06-24T22:39:39.571Z
+MyFirstEnvironment/Binaries/Win64/DML/x64/DirectML.dll	2025-06-25T08:22:34.775Z
+MyFirstEnvironment/Binaries/Win64/MyFirstEnvironment-Win64-Shipping.exe	2025-07-16T03:59:12.269Z
+MyFirstEnvironment/Binaries/Win64/tbb12.dll	2025-06-25T08:22:36.000Z
+MyFirstEnvironment/Binaries/Win64/tbbmalloc.dll	2025-06-25T08:22:36.000Z
+Engine/Extras/Redist/en-us/vc_redist.x64.exe	2025-06-25T08:20:44.834Z
+Engine/Extras/Redist/en-us/vc_redist.arm64.exe	2025-06-25T08:20:44.814Z
+Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2025-06-24T22:36:34.978Z
+Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll	2025-06-24T22:37:38.988Z
+Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2025-06-24T22:37:39.002Z
+Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2025-06-24T22:37:39.007Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2025-06-24T22:39:36.351Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2025-06-24T22:39:36.351Z
+Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2025-06-24T22:39:40.601Z
+Engine/Content/Renderer/TessellationTable.bin	2025-06-25T08:20:32.108Z
+Engine/Content/Slate/Cursor/invisible.cur	2025-06-25T08:20:32.164Z
+Engine/Plugins/NNE/NNERuntimeORT/Binaries/ThirdParty/Onnxruntime/Win64/onnxruntime.dll	2025-06-25T08:21:47.256Z
+Engine/Config/StagedBuild_MyFirstEnvironment.ini	2025-07-16T04:00:00.644Z
+MyFirstEnvironment/Content/Movies/Loading Screen.mp4	2025-07-12T06:01:49.320Z
+MyFirstEnvironment/Content/Movies/StartUp_Load.mp4	2025-07-12T06:11:47.504Z
+MyFirstEnvironment.exe	2025-07-16T04:00:00.640Z
